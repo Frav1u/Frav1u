@@ -3,8 +3,8 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/flavio-aparecido-228602150/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=frav1u&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frav1u&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=frav1u&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frav1u&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
