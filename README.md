@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### 
 - 🔭 Buscando Opportunidades para trabalhar com front-end
 
 <div align="center">
