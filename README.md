@@ -1,5 +1,5 @@
 ### 
-- 🔭 Buscando Opportunidades para trabalhar com front-end
+- 🔭 Buscando Opportunidades para iniciar na área de front-end
 
 <div align="center">
   <a href="https://www.linkedin.com/in/flavio-aparecido-228602150/">
