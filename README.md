@@ -1,5 +1,5 @@
 ### 
-- 🔭 Buscando Oportunidades para iniciar na área de front-end
+- 🔭 Engenheiro de Dados
 
 <div align="center">
   <a href="https://www.linkedin.com/in/flavio-aparecido-228602150/">
